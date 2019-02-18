@@ -21,7 +21,7 @@ import org.springframework.data.rest.core.annotation.RestResource;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-@EnableDiscoveryClient
+
 @SpringBootApplication
 public class BootServiceApplication {
 
